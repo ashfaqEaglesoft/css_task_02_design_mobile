@@ -1,0 +1,76 @@
+/* Design by Eaglesoft Designer */
+
+*{
+    background-color: rgb(0, 237, 245);
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+}
+.box
+{
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    border-radius: 8px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cam_a
+{
+    background-color: rgb(255, 255, 255);
+    width: 5px;
+    height: 5px;
+    border-radius: 90px;
+    position:absolute;
+    margin-top: 9px;
+    margin-left: 120px;
+}
+.spk
+{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 5px;
+    border-radius: 90px;
+    position:absolute;
+    margin-top: 9px;
+    margin-left: 130px;
+}
+.wal_a
+{
+    width: 280px;
+    height: 380px;
+    background-color: red;
+    background-image: linear-gradient(rgb(74, 189, 255),rgb(255, 255, 255));
+    border-radius: 0px;
+    position:absolute;
+    margin-top: 25px;
+    margin-left:10px;
+}
+.txt
+{
+    background:none;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.tag_line
+{
+    background:none;
+    color: green;
+    text-decoration: double;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 125px;
+}
+.btn
+{
+    width:35px;
+    height: 35px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 410px;
+    margin-left:130px ;
+    border-radius: 90px;
+}
